@@ -1,0 +1,548 @@
+{
+  "nombre": "Grafo positivo · no dirigido",
+  "dirigido": false,
+  "imagen": "positivo.png",
+  "nodos": [
+    {
+      "id": 0,
+      "x": 925,
+      "y": 115
+    },
+    {
+      "id": 1,
+      "x": 925,
+      "y": 380
+    },
+    {
+      "id": 2,
+      "x": 1075,
+      "y": 380
+    },
+    {
+      "id": 3,
+      "x": 1075,
+      "y": 220
+    },
+    {
+      "id": 4,
+      "x": 510,
+      "y": 665
+    },
+    {
+      "id": 5,
+      "x": 1250,
+      "y": 180
+    },
+    {
+      "id": 6,
+      "x": 500,
+      "y": 220
+    },
+    {
+      "id": 7,
+      "x": 265,
+      "y": 65
+    },
+    {
+      "id": 8,
+      "x": 635,
+      "y": 380
+    },
+    {
+      "id": 9,
+      "x": 500,
+      "y": 345
+    },
+    {
+      "id": 10,
+      "x": 345,
+      "y": 525
+    },
+    {
+      "id": 11,
+      "x": 210,
+      "y": 340
+    },
+    {
+      "id": 12,
+      "x": 770,
+      "y": 550
+    },
+    {
+      "id": 13,
+      "x": 880,
+      "y": 810
+    },
+    {
+      "id": 14,
+      "x": 340,
+      "y": 345
+    },
+    {
+      "id": 15,
+      "x": 740,
+      "y": 220
+    },
+    {
+      "id": 16,
+      "x": 980,
+      "y": 685
+    },
+    {
+      "id": 17,
+      "x": 1120,
+      "y": 565
+    },
+    {
+      "id": 18,
+      "x": 610,
+      "y": 665
+    },
+    {
+      "id": 20,
+      "x": 1410,
+      "y": 265
+    },
+    {
+      "id": 21,
+      "x": 60,
+      "y": 220
+    },
+    {
+      "id": 23,
+      "x": 975,
+      "y": 495
+    },
+    {
+      "id": 24,
+      "x": 60,
+      "y": 460
+    },
+    {
+      "id": 25,
+      "x": 1410,
+      "y": 465
+    },
+    {
+      "id": 27,
+      "x": 320,
+      "y": 690
+    },
+    {
+      "id": 29,
+      "x": 60,
+      "y": 65
+    },
+    {
+      "id": 44,
+      "x": 1075,
+      "y": 65
+    },
+    {
+      "id": 66,
+      "x": 710,
+      "y": 810
+    },
+    {
+      "id": 69,
+      "x": 1250,
+      "y": 380
+    },
+    {
+      "id": 70,
+      "x": 1340,
+      "y": 625
+    }
+  ],
+  "aristas": [
+    {
+      "id": "e01",
+      "origen": 29,
+      "destino": 7,
+      "peso": 5
+    },
+    {
+      "id": "e02",
+      "origen": 29,
+      "destino": 21,
+      "peso": 3
+    },
+    {
+      "id": "e03",
+      "origen": 21,
+      "destino": 11,
+      "peso": 2
+    },
+    {
+      "id": "e04",
+      "origen": 21,
+      "destino": 24,
+      "peso": 2
+    },
+    {
+      "id": "e05",
+      "origen": 24,
+      "destino": 11,
+      "peso": 7
+    },
+    {
+      "id": "e06",
+      "origen": 7,
+      "destino": 11,
+      "peso": 5
+    },
+    {
+      "id": "e07",
+      "origen": 7,
+      "destino": 14,
+      "peso": 3
+    },
+    {
+      "id": "e08",
+      "origen": 7,
+      "destino": 6,
+      "peso": 10
+    },
+    {
+      "id": "e09",
+      "origen": 7,
+      "destino": 1,
+      "peso": 20,
+      "etiqueta_t": 0.38
+    },
+    {
+      "id": "e10",
+      "origen": 11,
+      "destino": 14,
+      "peso": 9
+    },
+    {
+      "id": "e11",
+      "origen": 11,
+      "destino": 10,
+      "peso": 7
+    },
+    {
+      "id": "e12",
+      "origen": 14,
+      "destino": 6,
+      "peso": 5
+    },
+    {
+      "id": "e13",
+      "origen": 14,
+      "destino": 9,
+      "peso": 5
+    },
+    {
+      "id": "e14",
+      "origen": 14,
+      "destino": 10,
+      "peso": 9
+    },
+    {
+      "id": "e15",
+      "origen": 14,
+      "destino": 4,
+      "peso": 8,
+      "etiqueta_t": 0.63
+    },
+    {
+      "id": "e16",
+      "origen": 6,
+      "destino": 9,
+      "peso": 7
+    },
+    {
+      "id": "e17",
+      "origen": 6,
+      "destino": 8,
+      "peso": 4
+    },
+    {
+      "id": "e18",
+      "origen": 6,
+      "destino": 15,
+      "peso": 3
+    },
+    {
+      "id": "e19",
+      "origen": 9,
+      "destino": 10,
+      "peso": 3,
+      "etiqueta_t": 0.3
+    },
+    {
+      "id": "e20",
+      "origen": 10,
+      "destino": 1,
+      "peso": 5
+    },
+    {
+      "id": "e21",
+      "origen": 10,
+      "destino": 4,
+      "peso": 6
+    },
+    {
+      "id": "e22",
+      "origen": 10,
+      "destino": 27,
+      "peso": 9
+    },
+    {
+      "id": "e23",
+      "origen": 27,
+      "destino": 4,
+      "peso": 3
+    },
+    {
+      "id": "e24",
+      "origen": 27,
+      "destino": 66,
+      "peso": 1
+    },
+    {
+      "id": "e25",
+      "origen": 4,
+      "destino": 18,
+      "peso": 5
+    },
+    {
+      "id": "e26",
+      "origen": 4,
+      "destino": 8,
+      "peso": 15
+    },
+    {
+      "id": "e27",
+      "origen": 18,
+      "destino": 12,
+      "peso": 4
+    },
+    {
+      "id": "e28",
+      "origen": 18,
+      "destino": 66,
+      "peso": 6
+    },
+    {
+      "id": "e29",
+      "origen": 66,
+      "destino": 12,
+      "peso": 7
+    },
+    {
+      "id": "e30",
+      "origen": 66,
+      "destino": 13,
+      "peso": 777
+    },
+    {
+      "id": "e31",
+      "origen": 13,
+      "destino": 12,
+      "peso": 9
+    },
+    {
+      "id": "e32",
+      "origen": 13,
+      "destino": 16,
+      "peso": 3
+    },
+    {
+      "id": "e33",
+      "origen": 12,
+      "destino": 16,
+      "peso": 16,
+      "curva": -55
+    },
+    {
+      "id": "e34",
+      "origen": 12,
+      "destino": 16,
+      "peso": 3,
+      "curva": 55
+    },
+    {
+      "id": "e35",
+      "origen": 12,
+      "destino": 1,
+      "peso": 7
+    },
+    {
+      "id": "e36",
+      "origen": 12,
+      "destino": 8,
+      "peso": 9
+    },
+    {
+      "id": "e37",
+      "origen": 8,
+      "destino": 1,
+      "peso": 7
+    },
+    {
+      "id": "e38",
+      "origen": 8,
+      "destino": 15,
+      "peso": 2
+    },
+    {
+      "id": "e39",
+      "origen": 15,
+      "destino": 1,
+      "peso": 8
+    },
+    {
+      "id": "e40",
+      "origen": 15,
+      "destino": 0,
+      "peso": 8
+    },
+    {
+      "id": "e41",
+      "origen": 0,
+      "destino": 1,
+      "peso": 2
+    },
+    {
+      "id": "e42",
+      "origen": 0,
+      "destino": 44,
+      "peso": 70
+    },
+    {
+      "id": "e43",
+      "origen": 44,
+      "destino": 3,
+      "peso": 80
+    },
+    {
+      "id": "e44",
+      "origen": 44,
+      "destino": 5,
+      "peso": 69
+    },
+    {
+      "id": "e45",
+      "origen": 3,
+      "destino": 5,
+      "peso": 2
+    },
+    {
+      "id": "e46",
+      "origen": 3,
+      "destino": 2,
+      "peso": 9
+    },
+    {
+      "id": "e47",
+      "origen": 3,
+      "destino": 69,
+      "peso": 6
+    },
+    {
+      "id": "e48",
+      "origen": 1,
+      "destino": 2,
+      "peso": 3
+    },
+    {
+      "id": "e49",
+      "origen": 1,
+      "destino": 23,
+      "peso": 7
+    },
+    {
+      "id": "e50",
+      "origen": 23,
+      "destino": 2,
+      "peso": 3
+    },
+    {
+      "id": "e51",
+      "origen": 23,
+      "destino": 16,
+      "peso": 11
+    },
+    {
+      "id": "e52",
+      "origen": 2,
+      "destino": 69,
+      "peso": 11
+    },
+    {
+      "id": "e53",
+      "origen": 2,
+      "destino": 17,
+      "peso": 5
+    },
+    {
+      "id": "e54",
+      "origen": 16,
+      "destino": 17,
+      "peso": 7
+    },
+    {
+      "id": "e55",
+      "origen": 17,
+      "destino": 69,
+      "peso": 4
+    },
+    {
+      "id": "e56",
+      "origen": 17,
+      "destino": 70,
+      "peso": 6
+    },
+    {
+      "id": "e57",
+      "origen": 69,
+      "destino": 5,
+      "peso": 3
+    },
+    {
+      "id": "e58",
+      "origen": 5,
+      "destino": 20,
+      "peso": 2
+    },
+    {
+      "id": "e59",
+      "origen": 69,
+      "destino": 20,
+      "peso": 3
+    },
+    {
+      "id": "e60",
+      "origen": 69,
+      "destino": 25,
+      "peso": 6
+    },
+    {
+      "id": "e61",
+      "origen": 69,
+      "destino": 70,
+      "peso": 8
+    },
+    {
+      "id": "e62",
+      "origen": 20,
+      "destino": 25,
+      "peso": 7
+    },
+    {
+      "id": "e63",
+      "origen": 25,
+      "destino": 70,
+      "peso": 17
+    }
+  ],
+  "notas": [
+    "Transcrito de la imagen proporcionada. Los cruces sin círculo no crean nodos.",
+    "Se conservan las aristas paralelas entre 12 y 16, con pesos 16 y 3.",
+    "El nodo inferior está rotulado 66 en esta imagen.",
+    "Las líneas sin flechas se interpretan como conexiones en ambos sentidos."
+  ]
+}
